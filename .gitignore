@@ -1,0 +1,11 @@
+*
+!GrandmaAssetPackages
+!pharahMove
+!Assets
+!Assets/**
+!ProjectSettings
+!ProjectSettings/**
+!.gitattributes
+!.gitignore
+!README
+!.gitmodules

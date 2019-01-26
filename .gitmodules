@@ -1,0 +1,3 @@
+[submodule "GrandmaAssetPackages"]
+	path = GrandmaAssetPackages
+	url = https://github.com/GreatGrandmaGames/GrandmaAssetPackages.git
