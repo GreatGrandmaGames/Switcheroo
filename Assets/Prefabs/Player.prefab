@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cffff2efeada0b64aa26b43d5a51f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: fc779149dc24586408b0f9bd46eea741, type: 2}
   allModes: []
   StartingController: {fileID: 844018719614624907}
 --- !u!114 &946134926
