@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+  - enabled: 0
+    path: Assets/Free Parallax Desert Background/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Tests/CMTestDemoScene.unity
+    guid: 79f1ff94718e2423cbb5b5fdde1abd2c
+  - enabled: 1
+    path: Assets/Scenes/Levels/1-1.unity
+    guid: 52c387977062840f68c629008bcb6ad9
   m_configObjects: {}
