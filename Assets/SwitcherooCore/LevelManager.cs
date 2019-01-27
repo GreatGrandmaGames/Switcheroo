@@ -29,13 +29,24 @@ public class LevelManager : GrandmaComponent
 
     public void Reload()
     {
-        SceneManager.LoadScene(levelNames[currentLevel], LoadSceneMode.Additive);
+        SceneManager.UnloadSceneAsync(levelNames[currentLevel]);
+
+        InitLevel();
     }
 
     public void NextLevel()
     {
         SceneManager.UnloadSceneAsync(levelNames[currentLevel]);
+
         currentLevel++;
+        InitLevel();
+    }
+
+    void InitLevel()
+    {
+
+        player.transform.position = Vector3.zero;
+
         SceneManager.LoadScene(levelNames[currentLevel], LoadSceneMode.Additive);
     }
 }

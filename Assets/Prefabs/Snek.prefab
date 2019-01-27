@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 5813172671414647719}
   - component: {fileID: 5813172671414647718}
   - component: {fileID: 5813172671414647714}
-  - component: {fileID: 5813172671414647713}
   - component: {fileID: 5813172671414647715}
   - component: {fileID: 5813172671414647725}
   - component: {fileID: 5813172671414647716}
@@ -20,6 +19,7 @@ GameObject:
   - component: {fileID: 5813172671414647727}
   - component: {fileID: 5813172671414647726}
   - component: {fileID: 5813172671414647721}
+  - component: {fileID: 6681111558288457063}
   m_Layer: 0
   m_Name: Snek
   m_TagString: Untagged
@@ -120,19 +120,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5457fee3cb244f648af9f3dd19af91c8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &5813172671414647713
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5813172671414647717}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 46b2dd5c11d6b4d4d9e23f3c8fc855b5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: e36ca4450b0c24b15b949a9c60252553, type: 2}
 --- !u!61 &5813172671414647715
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -251,3 +238,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: 45d96c1cdba37454b9bfaaefcd781221, type: 2}
+--- !u!114 &6681111558288457063
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5813172671414647717}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53286f0097de1d244ae333136f60851f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  d: {fileID: 5813172671414647721}
