@@ -1,33 +1,25 @@
 fileFormatVersion: 2
-guid: fc5dd598b77014f1fb053f3aff975baf
+guid: f6ea46462782646959f8cffe47c8764c
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Switcharoo Sprite Sheet Draft 1_0
-    21300002: Switcharoo Sprite Sheet Draft 1_1
-    21300004: Switcharoo Sprite Sheet Draft 1_2
-    21300006: Switcharoo Sprite Sheet Draft 1_3
-    21300008: Switcharoo Sprite Sheet Draft 1_4
-    21300010: Switcharoo Sprite Sheet Draft 1_5
-    21300012: Switcharoo Sprite Sheet Draft 1_6
-    21300014: Switcharoo Sprite Sheet Draft 1_7
-    21300016: Switcharoo Sprite Sheet Draft 1_8
-    21300018: Switcharoo Sprite Sheet Draft 1_9
-    21300020: Switcharoo Sprite Sheet Draft 1_10
-    21300022: Switcharoo Sprite Sheet Draft 1_11
-    21300024: Switcharoo Sprite Sheet Draft 1_12
-    21300026: Switcharoo Sprite Sheet Draft 1_13
-    21300028: Switcharoo Sprite Sheet Draft 1_14
-    21300030: Switcharoo Sprite Sheet Draft 1_15
-    21300032: Switcharoo Sprite Sheet Draft 1_16
-    21300034: Switcharoo Sprite Sheet Draft 1_17
-    21300036: Switcharoo Sprite Sheet Draft 1_18
-    21300038: Switcharoo Sprite Sheet Draft 1_19
-    21300040: Switcharoo Sprite Sheet Draft 1_20
-    21300042: Switcharoo Sprite Sheet Draft 1_21
-    21300044: Switcharoo Sprite Sheet Draft 1_22
-    21300046: Switcharoo Sprite Sheet Draft 1_23
-    21300048: Switcharoo Sprite Sheet Draft 1_24
-    21300050: Switcharoo Sprite Sheet Draft 1_25
+    21300000: Switcharoo Sprite Tree Draft 1_0
+    21300002: Switcharoo Sprite Tree Draft 1_1
+    21300004: Switcharoo Sprite Tree Draft 1_2
+    21300006: Switcharoo Sprite Tree Draft 1_3
+    21300008: Switcharoo Sprite Tree Draft 1_4
+    21300010: Switcharoo Sprite Tree Draft 1_5
+    21300012: Switcharoo Sprite Tree Draft 1_6
+    21300014: Switcharoo Sprite Tree Draft 1_7
+    21300016: Switcharoo Sprite Tree Draft 1_8
+    21300018: Switcharoo Sprite Tree Draft 1_9
+    21300020: Switcharoo Sprite Tree Draft 1_10
+    21300022: Switcharoo Sprite Tree Draft 1_11
+    21300024: Switcharoo Sprite Tree Draft 1_12
+    21300026: Switcharoo Sprite Tree Draft 1_13
+    21300028: Switcharoo Sprite Tree Draft 1_14
+    21300030: Switcharoo Sprite Tree Draft 1_15
+    21300032: Switcharoo Sprite Tree Draft 1_16
+    21300034: Switcharoo Sprite Tree Draft 1_17
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -121,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_0
+      name: Switcharoo Sprite Tree Draft 1_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 27
-        width: 17
-        height: 14
+        y: 255
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -135,19 +127,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85527467d88a446c99d688e86ada538f
+      spriteID: b85d8d1f480cf401ca1654637bc39abd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_1
+      name: Switcharoo Sprite Tree Draft 1_1
       rect:
         serializedVersion: 2
-        x: 17
-        y: 27
-        width: 17
-        height: 13
+        x: 54
+        y: 255
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,19 +147,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54a329145765644eaa0c4bd634618b7e
+      spriteID: d7c4df4882cb0493f8fd53193665e40b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_2
+      name: Switcharoo Sprite Tree Draft 1_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 27
-        width: 17
-        height: 11
+        x: 108
+        y: 255
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,19 +167,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 375e925bbe7994c7da74a9d04c5f6a38
+      spriteID: ecdb6f3495203430b869ec2b6141cc61
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_3
+      name: Switcharoo Sprite Tree Draft 1_3
       rect:
         serializedVersion: 2
-        x: 51
-        y: 27
-        width: 17
-        height: 9
+        x: 162
+        y: 255
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,19 +187,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b0516b62d6e64a6f86fbcc2e4f4586d
+      spriteID: 6c20ec89a7e724d67bc245f05f93be2a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_4
+      name: Switcharoo Sprite Tree Draft 1_4
       rect:
         serializedVersion: 2
-        x: 68
-        y: 27
-        width: 17
-        height: 9
+        x: 216
+        y: 255
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -215,179 +207,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39c6c138432c54beea6e8b60d0e2b423
+      spriteID: 06c318c35ca6649498071bcb1075f040
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_5
-      rect:
-        serializedVersion: 2
-        x: 85
-        y: 27
-        width: 17
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7fe7890e90cc41949f6269270a1add1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_6
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 27
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e3d58d08b4890470c85a36b019a39214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_7
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 27
-        width: 17
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 95cd3e5efcffc40308c72c24586ae477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_8
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 27
-        width: 84
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8f507c5b26e0e4f37b3aa08a5a410e75
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_9
-      rect:
-        serializedVersion: 2
-        x: 220
-        y: 29
-        width: 17
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8fc2a841d0464c4690c911610156e26
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_10
-      rect:
-        serializedVersion: 2
-        x: 237
-        y: 28
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c73d7f8e64634ef2a968c5bab8b4491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_11
-      rect:
-        serializedVersion: 2
-        x: 253
-        y: 27
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 305b56e190e40443ba9f92bda683ceca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_12
-      rect:
-        serializedVersion: 2
-        x: 267
-        y: 27
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: aff6f6cb18ab24dda9530f7bd64f1936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_13
+      name: Switcharoo Sprite Tree Draft 1_5
       rect:
         serializedVersion: 2
         x: 0
-        y: 9
-        width: 17
-        height: 11
+        y: 205
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,19 +227,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49c7cdea7bf7e46fbb781755298181e7
+      spriteID: c24fd93e89fa44cf4be7b502e27a9e4c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_14
+      name: Switcharoo Sprite Tree Draft 1_6
       rect:
         serializedVersion: 2
-        x: 17
-        y: 9
-        width: 17
-        height: 12
+        x: 54
+        y: 205
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,19 +247,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4486094fb58c49e3b3fcff507e4b83e
+      spriteID: 5a41e3f146b5d4978b79786f851b35e5
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_15
+      name: Switcharoo Sprite Tree Draft 1_7
       rect:
         serializedVersion: 2
-        x: 34
-        y: 9
-        width: 67
-        height: 16
+        x: 108
+        y: 205
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -435,19 +267,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27fccd821951a4f99bf2f46c51f04407
+      spriteID: 4e1d5f5408d3f4b2f88ad18ff00930dd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_16
+      name: Switcharoo Sprite Tree Draft 1_8
       rect:
         serializedVersion: 2
-        x: 102
-        y: 17
-        width: 14
-        height: 6
+        x: 162
+        y: 205
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,19 +287,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30297255f60d244c1a760ed0a2b23cb0
+      spriteID: 05211ef0deeb74d4e905da1b5a8e1421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_17
+      name: Switcharoo Sprite Tree Draft 1_9
       rect:
         serializedVersion: 2
-        x: 117
-        y: 17
-        width: 6
-        height: 6
+        x: 216
+        y: 205
+        width: 51
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -475,18 +307,158 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 731ff8c9d3561449ba781075828f9c32
+      spriteID: d32885f12d2ff4c29a5936988f1d5bf7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_18
+      name: Switcharoo Sprite Tree Draft 1_10
       rect:
         serializedVersion: 2
-        x: 124
-        y: 16
-        width: 18
+        x: 0
+        y: 155
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96908cbc017e34e3388c7b2e401bdeb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 155
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4490db31ec4076bb98df633bd8772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 155
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e144ec0b5c46998473af107dcf9e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 155
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f248cd044c1d423492a2b0cf228c628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_14
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 155
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f931e6863071433ead3c99b539d5bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9dbdae04334481c8112181d9aeaa7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 105
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df32e6c3bd19d4bfabc4099a8c93f035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Switcharoo Sprite Tree Draft 1_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 105
+        width: 5
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -495,27 +467,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e3915de0f7894038879762eb106f341
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Switcharoo Sprite Sheet Draft 1_19
-      rect:
-        serializedVersion: 2
-        x: 143
-        y: 16
-        width: 9
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f9de7717c73564531b6b7c3c77a81b3e
+      spriteID: 71310f502d1954f5db66bacebcb45d70
       vertices: []
       indices: 
       edges: []
@@ -523,7 +475,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d494e1a1615884352830e80cba7b8733
+    spriteID: 0da421af59da24f00b08b6276e111247
     vertices: []
     indices: 
     edges: []
