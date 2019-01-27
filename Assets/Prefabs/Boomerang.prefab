@@ -14,8 +14,9 @@ GameObject:
   - component: {fileID: 4402672224630556755}
   - component: {fileID: 4402672224630556752}
   - component: {fileID: 4402672224630556753}
+  - component: {fileID: 1448837314}
   m_Layer: 0
-  m_Name: BoomerangPrefab
+  m_Name: Boomerang
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 4402672224630556765}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -6.038453, y: 2.3146353, z: 23.62675}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -59,7 +60,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a3a989dcba9a243e192922c0ca00a6e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duplicateData: 1
   Data: {fileID: 11400000, guid: 78247637b94744d07973185bd73a5754, type: 2}
 --- !u!50 &4402672224630556755
 Rigidbody2D:
@@ -135,8 +135,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 06105e28c1a894b27a8c4c51439154c0, type: 3}
-  m_Color: {r: 1, g: 0, b: 0.73324823, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 9497239ae582a45a0b5efcf27d426e33, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -146,3 +146,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1448837314
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4402672224630556765}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9b465d383059a432dae3e42461097734, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
