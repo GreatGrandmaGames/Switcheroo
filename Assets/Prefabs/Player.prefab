@@ -70,7 +70,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0930727dad519475e85629f512b520a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duplicateData: 0
   Data: {fileID: 11400000, guid: c40de07fe823349819bb71f4d1d1dbc6, type: 2}
   animator: {fileID: 0}
 --- !u!114 &2625045612069525873
@@ -97,8 +96,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cffff2efeada0b64aa26b43d5a51f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duplicateData: 0
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: fc779149dc24586408b0f9bd46eea741, type: 2}
   allModes: []
   StartingController: {fileID: 844018719614624907}
 --- !u!114 &946134926
@@ -113,7 +111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dd52501cbc33f041b479a16aec36734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duplicateData: 0
   Data: {fileID: 11400000, guid: e67addebfceee4684add13ae55f809b1, type: 2}
   startingFaction: {fileID: 0}
 --- !u!114 &946134927
@@ -128,7 +125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f65755d679f67040bf697986e1d1ab8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  duplicateData: 0
   Data: {fileID: 11400000, guid: 45d96c1cdba37454b9bfaaefcd781221, type: 2}
 --- !u!1 &2625045612092030891
 GameObject:
