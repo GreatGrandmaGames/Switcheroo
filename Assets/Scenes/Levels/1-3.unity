@@ -256,7 +256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cffff2efeada0b64aa26b43d5a51f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: 89a4f63ced844453ea6a79f7483ecfa6, type: 2}
   allModes:
   - {fileID: 1037362743}
   StartingController: {fileID: 1037362743}
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dfc5a91623cdd442a4469ae97b67ead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: eaf5945d541764dc4ad55b0f1d0c1c84, type: 2}
+  Data: {fileID: 11400000, guid: cca4960f10c9b9a4180677783b17c824, type: 2}
 --- !u!114 &1037362743
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -285,7 +285,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5075e0fb820da3a4b90e3ecf42b64a41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: d81f82485d530f749a5716afee887601, type: 2}
   speed: 0
   leftPos: 26.63
   rightPos: 26.63
@@ -507,7 +507,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cffff2efeada0b64aa26b43d5a51f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: 0e81b8f785e2245af9af094ad77d8d05, type: 2}
   allModes:
   - {fileID: 1399441018}
   StartingController: {fileID: 1399441018}
@@ -523,7 +523,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dfc5a91623cdd442a4469ae97b67ead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: eaf5945d541764dc4ad55b0f1d0c1c84, type: 2}
+  Data: {fileID: 11400000, guid: cca4960f10c9b9a4180677783b17c824, type: 2}
 --- !u!114 &1399441018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -536,7 +536,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5075e0fb820da3a4b90e3ecf42b64a41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: d81f82485d530f749a5716afee887601, type: 2}
   speed: 2
   leftPos: 12.77
   rightPos: 15.41
@@ -945,6 +945,11 @@ MonoBehaviour:
   Data: {fileID: 11400000, guid: f7dd27ec447db48d584077a189b4c248, type: 2}
   enteringKey: Switch
   positionable: {fileID: 1556704032}
+  delay: 0.2
+  cursorPrefab: {fileID: 5856105016946432039, guid: 73d47298b37a17642b3986792906c66e,
+    type: 3}
+  particleSystemPrefab: {fileID: 133264523874080395, guid: c71c73c334a6d004a873cba837e30662,
+    type: 3}
 --- !u!114 &2130784735677783229
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3619,7 +3624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5075e0fb820da3a4b90e3ecf42b64a41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: d81f82485d530f749a5716afee887601, type: 2}
   speed: 2
   leftPos: 15.49
   rightPos: 18.7
@@ -3788,7 +3793,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dfc5a91623cdd442a4469ae97b67ead, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 11400000, guid: eaf5945d541764dc4ad55b0f1d0c1c84, type: 2}
+  Data: {fileID: 11400000, guid: cca4960f10c9b9a4180677783b17c824, type: 2}
 --- !u!114 &5844868587356134970
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3801,7 +3806,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cffff2efeada0b64aa26b43d5a51f764, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Data: {fileID: 0}
+  Data: {fileID: 11400000, guid: e36ca4450b0c24b15b949a9c60252553, type: 2}
   allModes:
   - {fileID: 5844868587356134961}
   StartingController: {fileID: 5844868587356134961}
